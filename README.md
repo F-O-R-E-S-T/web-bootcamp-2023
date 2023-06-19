@@ -83,8 +83,8 @@
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
     <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
+        src="https://raw.githubusercontent.com/F-O-R-E-S-T/web-bootcamp-2023/main/.assets/logo_transparente.png"
+        alt="FOREST"
         width="40"
         height="40"
     />
