@@ -76,7 +76,49 @@
 ## Instructor
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h3><a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer" style="text-decoration: none"> Andres M. Prieto </a></h3>
+    <p align="center">
+        <h3>Andres M. Prieto</h3>
+    </p>
+    <p align="center">
+        <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+                alt="GitHub: AndresMpa"
+            />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+                alt="LinkedIn: AndresMpa"
+            />
+        </a>
+    </p>
+</div>
+
+## Colaboradores
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <p align="center">
+        <h3>Frederick Castañeda</h3>
+    </p>
+    <p align="center">
+        <a href="https://github.com/xcerock" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+                alt="GitHub: xcerock"
+            />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/frederick-casta%C3%B1eda-perez/" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+                alt="LinkedIn: Frederick Johan Castañeda Perez"
+            />
+        </a>
+    </p>
 </div>
 
 ## En colaboración de
@@ -96,22 +138,21 @@
     />
 </div>
 
-
 ## Temario
 
 #### Bloque #0: Presetanciones y datos importantes
 
 - Presentación de FOREST
 
-    - About AndresMpa
-    - Proyectos
-    - Anecdotas y el día que un puntero me borro windows
+  - About AndresMpa
+  - Proyectos
+  - Anecdotas y el día que un puntero me borro windows
 
 - Linux & la terminal
 
 - Systemd for dommie
 
-- Git + GitHub * Workflox = Lifecycle
+- Git + GitHub \* Workflox = Lifecycle
 
 - Vim/NeoVim & muVim
 
@@ -120,5 +161,3 @@
 - CLI - El bueno, el malo y el feo (O rust, npm y pip)
 - UML (El caso reddit)
 - Simply Web
-
-
