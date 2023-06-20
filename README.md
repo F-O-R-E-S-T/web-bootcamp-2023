@@ -128,7 +128,9 @@
 
 ## Temario
 
-#### Bloque #0: Presetanciones y datos importantes
+> Disclaimer: El Bootcamp será dictado en español. pero la mayoría de palabras tecnicas serán expresadas en inglés por facilidad del instructor, así mismo en los contenidos pese a que esten escritos en inglés y el material haya sido redactado en este idioma las explicaciones seguirán siendo dictadas en español
+
+### Bloque #0: Presetanciones y datos importantes
 
 - Presentación de FOREST
 
@@ -150,7 +152,7 @@
 - UML (El caso reddit)
 - Simply Web
 
-#### Bloque #1: Architecture
+### Bloque #1: Architecture
 
 - Linux + Architecture
 
@@ -158,7 +160,7 @@
 
 - Terms + Node + Bash = Backend
 
-#### Bloque #2: Diseño (De soluciones)
+### Bloque #2: Diseño (De soluciones)
 
 - Say it again: Unified Modeling Language or "UML"
 
@@ -166,24 +168,53 @@
 
 - Stopping suffering (Data flows)
 
-#### Bloque #3: Backend
+- ¿Queremos saber manejar todo esto?
 
-- JS vs TS
+### Bloque #3: Backend
+
+- JS vs TS vs Python vs Rust vs GO
 
 - Quick JS
 
 - Quick TS
 
+- Bash in a not so hard way
+
 - JS * Bash * Systemd = Service
+
+- A day as Backend
 
 - Express
 
 - Backend from scratch
 
-#### Bloque #4: Frontend
+- Render from templates
 
+- API-like
 
-#### Bloque #5: Solve it, now
+- API
+
+- Orchestra
+
+### Bloque #4: Frontend
+
+- HTML
+
+- A bit of CSS
+
+- JS is all you need
+
+- A day as Frontend
+
+- Cuando los navegadores hablan
+
+- Overwritting some APIs
+
+- Backendless
+
+### Bloque #5: Solve it, now
+
+- Mixing all together
 
 - Problemas de aplicación
 
@@ -194,3 +225,7 @@
 - Wrapping everything up (Creando soluciones usando varios métodos)
 
 - ¿Por qué todo estaba en inglés o en spanglish?
+
+### Bloque #6: Tips
+
+- Consejos según las lineas
