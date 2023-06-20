@@ -161,3 +161,38 @@
 - CLI - El bueno, el malo y el feo (O rust, npm y pip)
 - UML (El caso reddit)
 - Simply Web
+
+#### Bloque #1: Architecture
+
+- Linux + Architecture
+
+- Architecture + Task
+
+- Terms + Node + Bash = Backend
+
+#### Bloque #2: Diseño (De soluciones)
+
+- Say it again: Unified Modeling Language or "UML"
+
+- AI, ML, DL, K6 y más cosas bisilabas
+
+- Stopping suffering (Data flows)
+
+#### Bloque #3: Backend
+
+
+
+#### Bloque #4: Frontend
+
+
+#### Bloque #5: Solve it, now
+
+- Problemas de aplicación
+
+- Herramientas para entender que no sé diseñar (Y como mejorar)
+
+- Herramientas para sentirme mal y aprender backend (Las hack wars)
+
+- Wrapping everything up (Creando soluciones usando varios métodos)
+
+- ¿Por qué todo estaba en inglés o en spanglish?
