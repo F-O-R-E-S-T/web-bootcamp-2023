@@ -76,7 +76,7 @@
 ## Instructor
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h3><a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer" style="text-decoration: none"> AndresMpa </a></h3>
+    <h3><a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer" style="text-decoration: none"> Andres M. Prieto </a></h3>
 </div>
 
 ## En colaboración de
@@ -88,6 +88,37 @@
         width="40"
         height="40"
     />
+    <img
+        src="https://raw.githubusercontent.com/F-O-R-E-S-T/web-bootcamp-2023/main/.assets/ubuntu.png"
+        alt="FOREST"
+        width="40"
+        height="40"
+    />
 </div>
+
+
+## Temario
+
+#### Bloque #0: Presetanciones y datos importantes
+
+- Presentación de FOREST
+
+    - About AndresMpa
+    - Proyectos
+    - Anecdotas y el día que un puntero me borro windows
+
+- Linux & la terminal
+
+- Systemd for dommie
+
+- Git + GitHub * Workflox = Lifecycle
+
+- Vim/NeoVim & muVim
+
+#### Temas extra del bloque
+
+- CLI - El bueno, el malo y el feo (O rust, npm y pip)
+- UML (El caso reddit)
+- Simply Web
 
 
