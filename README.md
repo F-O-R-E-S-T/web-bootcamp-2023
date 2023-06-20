@@ -229,3 +229,8 @@
 ### Bloque #6: Tips
 
 - Consejos según las lineas
+
+
+> "Si tienes miedo, hazlo con miedo"
+
+By @Cristhian47
