@@ -76,49 +76,37 @@
 ## Instructor
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <p align="center">
-        <h3>Andres M. Prieto</h3>
-    </p>
-    <p align="center">
-        <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
-            <img
-                src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
-                alt="GitHub: AndresMpa"
-            />
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
-            <img
-                src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
-                alt="LinkedIn: AndresMpa"
-            />
-        </a>
-    </p>
+    <h3>Andres M. Prieto</h3>
+    <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: AndresMpa"
+        />
+    </a>
+    <a href="https://github.com/AndresMpa" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: AndresMpa"
+        />
+    </a>
 </div>
 
 ## Colaboradores
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <p align="center">
-        <h3>Frederick Castañeda</h3>
-    </p>
-    <p align="center">
-        <a href="https://github.com/xcerock" target="_blank" rel="noreferrer">
-            <img
-                src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
-                alt="GitHub: xcerock"
-            />
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/frederick-casta%C3%B1eda-perez/" target="_blank" rel="noreferrer">
-            <img
-                src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
-                alt="LinkedIn: Frederick Johan Castañeda Perez"
-            />
-        </a>
-    </p>
+    <h3>Frederick Castañeda</h3>
+    <a href="https://github.com/xcerock" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: xcerock"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/frederick-casta%C3%B1eda-perez/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Frederick Johan Castañeda Perez"
+        />
+    </a>
 </div>
 
 ## En colaboración de
@@ -180,7 +168,17 @@
 
 #### Bloque #3: Backend
 
+- JS vs TS
 
+- Quick JS
+
+- Quick TS
+
+- JS * Bash * Systemd = Service
+
+- Express
+
+- Backend from scratch
 
 #### Bloque #4: Frontend
 
