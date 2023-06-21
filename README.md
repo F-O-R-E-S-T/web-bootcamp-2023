@@ -231,6 +231,6 @@
 - Consejos según las lineas
 
 
-> "Si tienes miedo, hazlo con miedo"
+> "Hazlo, y si tienes miedo, hazlo con miedo"
 
-By @Cristhian47
+By [@CristhianGrajales](https://www.linkedin.com/in/cristhian-andres-grajales-perez-5b5426229/)
