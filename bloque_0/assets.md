@@ -28,7 +28,7 @@ Some shells
 
 - Fish
 
-(Help me please)[https://www.youtube.com/watch?v=4TcMGG2VJjg]
+[Help me please](https://www.youtube.com/watch?v=4TcMGG2VJjg)
 
 Systemd for dommie
 
@@ -104,6 +104,11 @@ Limpiar el area de stash
 git stash clear
 ```
 
+Regresar en el historico de git
+```
+git checkout HASH
+```
+
 Vim/NeoVim & [muVim](https://github.com/AndresMpa/mu-vim/tree/singleFile)
 
 - j -> Abajo
@@ -136,3 +141,19 @@ Vim/NeoVim & [muVim](https://github.com/AndresMpa/mu-vim/tree/singleFile)
 Temas extra del bloque
 
 ✨ _Momento de abrir la terminal_  ✨ 
+
+Temas extras visto durante la clase:
+
+
+
+[Utilidad para gitignore](https://www.toptal.com/developers/gitignore)
+
+[SSH para GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Branches](https://miro.medium.com/v2/resize:fit:1400/1*xziksRTlxzd0s3HhIjnpaw.png)
+
+[Lifecycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
+
+[muVim](https://github.com/AndresMpa/mu-vim/blob/main/.examples/nvim_2.png)
+
+
