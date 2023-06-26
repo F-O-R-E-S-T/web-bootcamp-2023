@@ -109,6 +109,42 @@
     </a>
 </div>
 
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Sergio Ortiz <a href="https://www.ambiot.com.co/" target="_blank" rel="noreferrer">(ambiot)</a></h3>
+    <a href="http://www.ambiot.com.co" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-Ambiot-lightblue?style=for-the-badge&logo=abstract"
+            alt="ambiot"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/sergio-camilo-ortiz-leal-b6888a127/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Sergio Camilo Ortiz Leal"
+        />
+    </a>
+</div>
+
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Miguel Acevedo @linuxcriollo</h3>
+    <a href="https://gitlab.com/linux-criollo" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitLab-grey?style=for-the-badge&logo=gitlab"
+            alt="GitLab: @linuxcriollo"
+        />
+    </a>
+    <a href="https://www.youtube.com/@linuxcriollo" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"
+            alt="YouTube: @linuxcriollo"
+        />
+    </a>
+</div>
+
+
+
 ## En colaboración de
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
