@@ -1,5 +1,7 @@
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h1>Free Open Bootcamp: 2023</h1>
+    <a href="https://www.youtube.com/watch?v=TIDaw1VPI1c&list=PL6yzG4hP9laOihWcfNMSLK0CNVnrqC_4R" target="_blank" rel="noreferrer">
+        <h1 align="center">Free Open Bootcamp: 2023</h1>
+    </a>
 </div>
 
 ## Temas
@@ -109,7 +111,6 @@
     </a>
 </div>
 
-
 <div style="display: flex; justify-content: space-around; margin: 5px">
     <h3>Sergio Ortiz <a href="https://www.ambiot.com.co/" target="_blank" rel="noreferrer">(ambiot)</a></h3>
     <a href="http://www.ambiot.com.co" target="_blank" rel="noreferrer">
@@ -126,7 +127,6 @@
     </a>
 </div>
 
-
 <div style="display: flex; justify-content: space-around; margin: 5px">
     <h3>Miguel Acevedo @linuxcriollo</h3>
     <a href="https://gitlab.com/linux-criollo" target="_blank" rel="noreferrer">
@@ -142,8 +142,6 @@
         />
     </a>
 </div>
-
-
 
 ## En colaboración de
 
@@ -216,7 +214,7 @@
 
 - Bash in a not so hard way
 
-- JS * Bash * Systemd = Service
+- JS _ Bash _ Systemd = Service
 
 - A day as Backend
 
@@ -265,7 +263,6 @@
 ### Bloque #6: Tips
 
 - Consejos según las lineas
-
 
 > "Hazlo, y si tienes miedo, hazlo con miedo"
 
