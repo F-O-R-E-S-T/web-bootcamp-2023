@@ -58,4 +58,4 @@ Escencialmente un tipo de dato es un espacio de memoria que sirve para almacenar
 
 ### Halemos de efectivo
 
-La mejor manera de tocar ese tema es a tráves de la estadistica como con los [surveries anuales](https://survey.stackoverflow.co/2023/#work-salary)
+La mejor manera de tocar ese tema es a tráves de la estadistica como con los [surveries anuales](https://survey.stackoverflow.co/2023/#work-salary) aunque probablemente necesites [una de estas](https://themoneyconverter.com/USD/COP)
