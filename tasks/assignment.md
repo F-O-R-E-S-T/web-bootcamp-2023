@@ -48,3 +48,9 @@ Nota: Hay 2 maneras de hacer esto, hacerlo bien o hacerlo mal.
 # Assignment #5
 
 Crear una tabla llamada "example" dentro de alguna base de datos 🌲
+
+# Assignment #6
+
+Esta vez no puedo saber si lo hacen o no 👁, pero la tarea de esta vez será revisar todos los ejemplos de [JS by examples](https://javascriptbyexample.com/) 🌲
+
+
