@@ -1,3 +1,4 @@
+const loadEndpoint = require("./router")
 const { config } = require("./config")
 const express = require("express");
 const path = require("path");

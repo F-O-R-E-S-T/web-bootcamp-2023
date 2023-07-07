@@ -1,4 +1,4 @@
-const { exec, spawn } = require("node:child_process");
+const { exec } = require("node:child_process");
 const router = require("express").Router();
 
 router.get("/test", (req, res, err) => {
@@ -15,9 +15,6 @@ router.get("/test", (req, res, err) => {
   });
 });
 
-/**
- Descripción
-*/
 router.post("/example", (req, res, err) => {
   try {
     exec(`./monkey.sh ${req.body.title}`, (err, stdout, stderr) => {
@@ -110,3 +107,5 @@ router.delete("/example", (req, res, err) => {
     });
   }
 });
+
+module.exports = router
