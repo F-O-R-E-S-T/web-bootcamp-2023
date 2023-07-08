@@ -60,8 +60,11 @@ Espero que hayan entendido lo que les he venido explicado 🌱, eventualmente ve
 Para esta ocasión la idea será pensar un poquito en carpetas 📂 la idea será crear lo siguiente:
 
 🌲 Crear una carpeta de rutas en donde puedas partir las rutas 🪓
+
 🌲 Usar archivos index.js con los cuales puedes invocar solo la carpeta sin invocar el archivo especifico 🗝
+
 🌲 Formatear todo el API para crear tantas carpetas como consideres que sean necesarios 🤔
+
 🌲 Has que tu API funcione 🏁
 
 Opcional:
@@ -77,6 +80,7 @@ Restricciones:
 Usualmente alguien más nos entrega los tickets, pero realmente es bueno saber como se hacen, por ende la idea de este assigment es que escriban uno. Idealmente que sea sobre software (Los quiero pero no me gustaría saber la historia de sus ex)
 
 🌲 Usando como referencia el ticket que ya les mostré 👀 cree un ticket que tenga una descripción del problema y la respectiva tablita con datos de la dificultad y demás 📊 Todo usando markdown, por supuesto 🏁
+
 🌲 Hay que usar un método de estimación para determinar cuanto tiempo nos vamos a tardar ⏳, para eso Robert C. Martin nos recomienda el método de estimación a 3 factores. Ya que Uncle Bob es como Jesucristo, le haremos caso 🍃
 
 Opcional:
@@ -88,13 +92,17 @@ Opcional:
 Lo qué más hace la/el dev promedio es agregar codigo a un software existente, por ende aprender a agregar piezas de código o funcionalidades a un código existente es muy importante (Sobre todo si ese código es tuyo). Para este assignment debes de cumplir lo siguiente:
 
 🌲 Agregar la funcionalidad de actualizar un archivo usando una clase genérica (FileService) y una clase específica (ExampleService) 🏁
+
 🌲 Conecta los endpoints y los servicios (Usando ExampleService)
+
 🌲 Conecta los servicios entre si (Usando this)
+
 🌲 Formatea la respuesta es res para que sea de tipo JSON 
 
 Opcional:
 
 🍃 Agregar documentación de a tus endpoints
+
 🍃 Agregar un método patch que haga lo mismo que put, con la diferencia de que permita agregar datos, no reescribir todo el archivo 🤔
 
 Restricciones:
