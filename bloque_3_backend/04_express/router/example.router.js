@@ -19,11 +19,44 @@ router.put('/', async (req, res, err) => {
   const fileName = req.body.fileName;
   const fileType = req.body.fileType;
   const rawData = req.body.rawData;
-  await exampleService.writeContent(fileName, fileType, rawData);
-  res.status(202).json({
-    status: 'File updated',
-  });
+  const fileStatus = await exampleService.writeContent(
+    fileName,
+    fileType,
+    rawData
+  );
+  if (fileStatus) {
+    res.status(202).json({
+      status: 'File updated',
+    });
+  } else {
+    res.status(404).json({
+      status: 'File not found',
+    });
+  }
 });
+
+router.patch('/', async (req, res, err) => {
+  const fileName = req.body.fileName;
+  const fileType = req.body.fileType;
+  const rawData = req.body.rawData;
+  const fileStatus = await exampleService.updateContent(
+    fileName,
+    fileType,
+    rawData
+  );
+  if (fileStatus) {
+    res.status(202).json({
+      status: 'File updated',
+    });
+  } else {
+    res.status(404).json({
+      status: 'File not found',
+    });
+  }
+});
+
+
+
 
 router.delete('/', (req, res, err) => {
   const fileName = req.body.fileName;
