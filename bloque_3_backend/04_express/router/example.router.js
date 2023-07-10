@@ -15,7 +15,15 @@ router.post('/', async (req, res, err) => {
   });
 });
 
-router.put('/', (req, res, err) => {});
+router.put('/', async (req, res, err) => {
+  const fileName = req.body.fileName;
+  const fileType = req.body.fileType;
+  const rawData = req.body.rawData;
+  await exampleService.writeContent(fileName, fileType, rawData);
+  res.status(202).json({
+    status: 'File updated',
+  });
+});
 
 router.delete('/', (req, res, err) => {
   const fileName = req.body.fileName;
