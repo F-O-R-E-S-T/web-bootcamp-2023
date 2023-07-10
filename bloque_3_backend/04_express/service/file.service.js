@@ -7,22 +7,39 @@ class FileService {
   }
 
   async readDirectory() {
-    const files = await fs.readdirSync(this.basePath);
-    return files;
+    try {
+      const files = await fs.readdirSync(this.basePath);
+      return files;
+    } catch (err) {
+      console.error('[ERROR - readDirectory]:', err);
+    }
   }
 
-  readFile() {
-    console.log(this.basePath);
+  async readFile(fileName, fileType) {
+    try {
+      const data = await fs.readFileSync(
+        `${this.basePath}/${fileName}.${fileType}`,
+        'utf8'
+      );
+      return data;
+    } catch (err) {
+      console.error('[ERROR - readFile]:', err);
+    }
   }
 
   async createFile(fileName, fileType, data = '') {
-    await fs.writeFileSync(`${this.basePath}/${fileName}.${fileType}`, data);
+    try {
+      await fs.writeFileSync(`${this.basePath}/${fileName}.${fileType}`, data);
+    } catch (err) {
+      console.error('[ERROR - createFile]:', err);
+    }
   }
 
   deleteRef(fileName, fileType) {
     let deleted = true;
     fs.unlink(`${this.basePath}/${fileName}.${fileType}`, (err) => {
       if (err) {
+        console.error('[ERROR - deleteRef]:', err);
         deleted != deleted;
       }
     });
