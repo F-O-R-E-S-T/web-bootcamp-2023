@@ -55,9 +55,6 @@ router.patch('/', async (req, res, err) => {
   }
 });
 
-
-
-
 router.delete('/', (req, res, err) => {
   const fileName = req.body.fileName;
   const fileType = req.body.fileType;
