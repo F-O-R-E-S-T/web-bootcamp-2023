@@ -1,0 +1,34 @@
+:root {
+  --main: #0125eb;
+  --strong: #eb8b17;
+  --details: #ebe317;
+  --label: #630ceb;
+  --links: #0ca2eb;
+  --background: #ffffff --letter: #000000;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  color: var(--letter);
+  overflow-anchor: none;
+  font-family: "Nunito", sans-serif;
+}
+
+body {
+  background-color: var(--background);
+}
+
+ul,
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--links);
+}
+p {
+  color: var(--main);
+}
