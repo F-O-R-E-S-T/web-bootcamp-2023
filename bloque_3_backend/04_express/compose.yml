@@ -1,0 +1,56 @@
+services:
+  api_server_1:
+    build: .
+    restart: always
+    container_name: api_server_1
+    expose:
+      - "3000"
+    ports:
+      - "8080:3000"
+    environment:
+      - PORT=3000
+      - DATA_PATH=current_status/
+  api_server_2:
+    build: .
+    restart: always
+    container_name: api_server_2
+    expose:
+      - "3000"
+    ports:
+      - "3001:3000"
+    environment:
+      - PORT=3000
+      - DATA_PATH=current_status/
+  api_server_3:
+    build: .
+    restart: always
+    container_name: api_server_3
+    expose:
+      - "3000"
+    ports:
+      - "3002:3000"
+    environment:
+      - PORT=3000
+      - DATA_PATH=current_status/
+  api_server_4:
+    build: .
+    restart: always
+    container_name: api_server_4
+    expose:
+      - "3000"
+    ports:
+      - "3003:3000"
+    environment:
+      - PORT=3000
+      - DATA_PATH=current_status/
+  api_server_5:
+    build: .
+    restart: always
+    container_name: api_server_5
+    expose:
+      - "3000"
+    ports:
+      - "8084:3000"
+    environment:
+      - PORT=3000
+      - DATA_PATH=current_status/
