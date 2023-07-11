@@ -40,3 +40,30 @@ Lectura de archivos: https://nodejs.dev/en/learn/reading-files-with-nodejs/
 
 Object.keys: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 
+
+compose-spec/spec.md at master · compose-spec/compose-spec · GitHub
+https://github.com/compose-spec/compose-spec/blob/master/spec.md
+
+node - Official Image | Docker Hub
+https://hub.docker.com/_/node
+
+Layers | Docker Documentation
+https://docs.docker.com/build/guide/layers/
+
+tree.gif (435×160)
+http://web.simmons.edu/~grabiner/comm244/weekfour/tree.gif
+
+CSS Reference - A free visual guide to CSS
+https://cssreference.io/
+
+JavaScript Array reverse() Method
+https://www.w3schools.com/jsref/jsref_reverse.asp
+
+Using the Fetch API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+How to add CSS
+https://www.w3schools.com/css/css_howto.asp
+
+EventTarget: addEventListener() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
