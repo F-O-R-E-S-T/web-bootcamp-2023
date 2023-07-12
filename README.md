@@ -214,7 +214,7 @@
 
 - Bash in a not so hard way
 
-- JS _ Bash _ Systemd = Service
+- JS + Bash + Systemd = Service
 
 - A day as Backend
 
