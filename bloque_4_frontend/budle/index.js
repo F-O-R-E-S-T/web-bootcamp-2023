@@ -1,0 +1,3 @@
+/**
+ * Minified JS file
+ */
