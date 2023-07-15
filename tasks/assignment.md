@@ -253,6 +253,6 @@ Escoge una página, luego lleva esa página a una topografía facilita para ti, 
 
 Recomendaciones:
 
-🌲 Volver a ver la parte 2 de la sesión anterior (El último video de la lista https://youtube.com/playlist?list=PL6yzG4hP9laOihWcfNMSLK0CNVnrqC_4R)
+🌲 Volver a ver la parte 2 de la sesión anterior (Este video de la lista de reproducción https://youtu.be/OHOWMBDUUVw)
 
 🌲 Revisar https://htmlreference.io
