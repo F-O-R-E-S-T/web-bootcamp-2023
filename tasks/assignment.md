@@ -1,3 +1,5 @@
+> Assigment de arquitectura
+
 # Assigments #1
 
 ## A qué no puedes hacer esto antes de la siguiente clase 👀:
@@ -43,6 +45,10 @@ Nota: Hay 2 maneras de hacer esto, hacerlo bien o hacerlo mal.
 # Assignment #4
 
 ![Assignment_4](./assignment_pre_backend.png)
+
+---
+
+> Assigment del backend
 
 # Assignment #5
 
@@ -235,4 +241,18 @@ POST: Reset
 /http://localhost:3000/api/v1/idle/reset
 ```
 
+--- 
 
+> Assigment del frontend
+
+# Assignment #12
+
+Mapping, maps, mapas o cartografía; tiene muchos nombres pero se refieren a lo mismo 🗺
+
+Escoge una página, luego lleva esa página a una topografía facilita para ti, identifica que componentes se repiten y asigna colores a todo 🌈. Una vez tengas todo eso, crear el HTML que más se ajuste a esa topografía
+
+Recomendaciones:
+
+🌲 Volver a ver la parte 2 de la sesión anterior (El último video de la lista https://youtube.com/playlist?list=PL6yzG4hP9laOihWcfNMSLK0CNVnrqC_4R)
+
+🌲 Revisar https://htmlreference.io
