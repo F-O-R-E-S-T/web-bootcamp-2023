@@ -118,3 +118,88 @@ Tomando los 4 diagramas de más abajo 🗺 debes de construir un "plan" de traba
 ![Diagrama de paquetes](./zorrospace-Packages.drawio.png "Diagrama de paquetes")
 ![Diagrama de secuencia](./zorrospace-Sequence.drawio.png "Diagrama de secuencia")
 ![Diagrama de estados](./zorrospace-States.drawio.png "Diagrama de estados")
+
+
+# Backend Project: Zorro scape
+
+Ahora que ya sabes hacer y usar un API, vamos a construir una from scracth (Desde 0), ya sabes como hacer esto
+
+## Movement
+Este set de endpoints respectivamente cambian los valores de X y Y pra que le jugador se puede mover hacia arriba, derecha, izquierda y abajo
+
+PUT: Move up
+```
+/http://localhost:3000/api/v1/movement/up
+```
+
+PUT: Move right
+```
+/http://localhost:3000/api/v1/movement/right
+```
+
+PUT: Move left
+```
+/http://localhost:3000/api/v1/movement/left
+```
+
+PUT: Move down
+```
+/http://localhost:3000/api/v1/movement/down
+```
+
+## Jump
+Este set de endpoints respectivamente cambian los valores de X y Y para que el jugador se puede mover a manera de parabola, es decir; a manera de parabola
+
+PUT: Jump right
+```
+/http://localhost:3000/api/v1/jump/right
+```
+
+PUT: Jump left
+```
+/http://localhost:3000/api/v1/jump/left
+```
+
+
+## Attack
+Este set de endpoints se refiere a los ataques hacia la derecha e izquierda 
+
+PUT: Attack right
+```
+/http://localhost:3000/api/v1/attack/right
+```
+
+PUT: Attack left
+```
+/http://localhost:3000/api/v1/attack/left
+```
+
+## Idle
+Estos endpoints son para el control del personaje, deben de cumplir con los estados propuestos para el diagrama de estados del assigment #10
+
+GET: Get current
+```
+/http://localhost:3000/api/v1/idle/current
+```
+
+GET: Win
+```
+/http://localhost:3000/api/v1/idle/win
+```
+
+DELETE: Die
+```
+/http://localhost:3000/api/v1/idle/die
+```
+
+POST: Start
+```
+/http://localhost:3000/api/v1/idle/start
+```
+
+### Opcional
+
+POST: Reset
+```
+/http://localhost:3000/api/v1/idle/reset
+```
