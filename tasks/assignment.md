@@ -114,92 +114,125 @@ Vamos a retomar cositas de planificación antes de irnos de lleno a la codificac
 
 Tomando los 4 diagramas de más abajo 🗺 debes de construir un "plan" de trabajo, para eso has de escribir todos los tickets 🎟 que encuentres entre los diagramas. Ten en cuenta que yo estimo unos 15, pero puede que tú encuentres más o menos 👍 no hay lío si te salen 20 u 8, el reto de esto es identificar las tareas que se necesitan 🎯
 
-![Diagrama de componentes](./zorrospace-Components.drawio.png "Diagrama de componentes")
-![Diagrama de paquetes](./zorrospace-Packages.drawio.png "Diagrama de paquetes")
-![Diagrama de secuencia](./zorrospace-Sequence.drawio.png "Diagrama de secuencia")
-![Diagrama de estados](./zorrospace-States.drawio.png "Diagrama de estados")
-
+![Diagrama de componentes](./zorro_scape/zorrospace-Components.drawio.png "Diagrama de componentes")
+![Diagrama de paquetes](./zorro_scape/zorrospace-Packages.drawio.png "Diagrama de paquetes")
+![Diagrama de secuencia](./zorro_scape/zorrospace-Sequence.drawio.png "Diagrama de secuencia")
+![Diagrama de estados](./zzorro_scape/orrospace-States.drawio.png "Diagrama de estados")
 
 # Backend Project: Zorro scape
 
-Ahora que ya sabes hacer y usar un API, vamos a construir una from scracth (Desde 0), ya sabes como hacer esto
+Ahora que ya sabes hacer y usar un API, vamos a construir una from scracth (Desde 0), ya sabes como hacer esto.
 
-## Movement
+En la carpeta [zorro_scape](./zorro_scape/) encontrarás los build que Cristhian nos ha dejado, usa esos builds para que tu API tenga una interfaz
+y envia datos compliendo la arquitectura que ya vimos. Como luego he de revisar esto, debes de hacerlo todo en un repositorio de GitHub o GitLab.
+
+
+## Restricciones
+
+- Debes de leer y actualizar un archivo de tipo json como especifica el [diagrama de componentes](./zorro_scape/zorrospace-Components.drawio.png "Diagrama de componentes")
+
+- Solo puede comunicarte con el build a traves de /idle/current
+
+- No puedes responder directamente JSON, primero debes leer el estado del archivo
+
+- Todos tus endpoint deben de ser funcionales y responder cuando menos un StatusCode
+
+## Especificación de los endpoints
+
+### Movement
+
 Este set de endpoints respectivamente cambian los valores de X y Y pra que le jugador se puede mover hacia arriba, derecha, izquierda y abajo
 
 PUT: Move up
+
 ```
 /http://localhost:3000/api/v1/movement/up
 ```
 
 PUT: Move right
+
 ```
 /http://localhost:3000/api/v1/movement/right
 ```
 
 PUT: Move left
+
 ```
 /http://localhost:3000/api/v1/movement/left
 ```
 
 PUT: Move down
+
 ```
 /http://localhost:3000/api/v1/movement/down
 ```
 
-## Jump
+### Jump
+
 Este set de endpoints respectivamente cambian los valores de X y Y para que el jugador se puede mover a manera de parabola, es decir; a manera de parabola
 
 PUT: Jump right
+
 ```
 /http://localhost:3000/api/v1/jump/right
 ```
 
 PUT: Jump left
+
 ```
 /http://localhost:3000/api/v1/jump/left
 ```
 
+### Attack
 
-## Attack
-Este set de endpoints se refiere a los ataques hacia la derecha e izquierda 
+Este set de endpoints se refiere a los ataques hacia la derecha e izquierda
 
 PUT: Attack right
+
 ```
 /http://localhost:3000/api/v1/attack/right
 ```
 
 PUT: Attack left
+
 ```
 /http://localhost:3000/api/v1/attack/left
 ```
 
-## Idle
+### Idle
+
 Estos endpoints son para el control del personaje, deben de cumplir con los estados propuestos para el diagrama de estados del assigment #10
 
 GET: Get current
+
 ```
 /http://localhost:3000/api/v1/idle/current
 ```
 
 GET: Win
+
 ```
 /http://localhost:3000/api/v1/idle/win
 ```
 
 DELETE: Die
+
 ```
 /http://localhost:3000/api/v1/idle/die
 ```
 
 POST: Start
+
 ```
 /http://localhost:3000/api/v1/idle/start
 ```
 
-### Opcional
+#### Opcional
 
 POST: Reset
+
 ```
 /http://localhost:3000/api/v1/idle/reset
 ```
+
+
