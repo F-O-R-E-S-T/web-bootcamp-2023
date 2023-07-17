@@ -1,0 +1,51 @@
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-violet {
+    background-color: violet;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#main .wrapper {
+    background-image: url(./bootcamp.jpg);
+    background-size: cover;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    margin: 50px 0px 25px 0px;
+    display: flex;
+    height: 250px;
+    width: 250px;
+    justify-content: center;
+    justify-self: center;
+
+    background-color: rgba(86, 177, 72, 26);
+    opacity: 0.6;
+    border-radius: 100%;
+}
+
+.content {
+    padding: 15px;
+}
+
+#content h2 {
+    text-decoration:underline;
+    color: snow;
+}
