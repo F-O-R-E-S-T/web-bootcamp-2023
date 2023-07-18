@@ -256,3 +256,11 @@ Recomendaciones:
 🌲 Volver a ver la parte 2 de la sesión anterior (Este video de la lista de reproducción https://youtu.be/OHOWMBDUUVw)
 
 🌲 Revisar https://htmlreference.io
+
+# Assignment #13
+
+Para ser un/a frontend siempre hay que estar revisando el codigo que se escribe 🌲 por ende debes de saber hacer muchas cositas, unas de esas son las arquitecturas, por ello; hemos de leer un poco sobre el tema, les propongo leer las 2 arquitecturas más usadas ⛳️
+
+🍃 B-E_M: https://en.bem.info/methodology/quick-start/
+
+🍃 Atomic Design: https://bradfrost.com/blog/post/atomic-web-design/
