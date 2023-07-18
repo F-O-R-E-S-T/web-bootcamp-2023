@@ -57,3 +57,20 @@ https://developer.mozilla.org/en-US/docs/Web/API/FontData
 
 Can I use... Support tables for HTML5, CSS3, etc
 https://caniuse.com/
+
+https://www.w3schools.com/css/css_grid.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named
+http://127.0.0.1:5500/grid/index.html
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+https://en.wikipedia.org/wiki/Wikimedia_Foundation
+https://en.bem.info/methodology/quick-start/
+
+https://getbootstrap.com/docs/5.3/layout/grid/
+https://tailwindcss.com/docs/installation
+https://sass-lang.com/guide/
+https://github.com/css-modules/css-modules
+https://en.bem.info/methodology/quick-start/#modifier
+https://medium.com/@GreenXIII/organize-your-css-smacss-way-89c087db5092
+https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/#top
+https://bradfrost.com/blog/post/atomic-web-design/
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
