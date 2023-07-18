@@ -1,0 +1,12 @@
+.header {
+  grid-area: hedr;
+  background-color: var(--main);
+}
+
+.header--figure {}
+
+.header .header--figure__img {
+  width: 35px;
+}
+
+.header--figure__figcaption {}

@@ -1,0 +1,63 @@
+.wrapper--grid {
+  display: grid;
+  grid-template-areas:
+    "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+    "menu menu main main main main main main main main main rght rght"
+    "menu menu main main main main main main main main main rght rght"
+    "menu menu main main main main main main main main main rght rght"
+    "menu menu main main main main main main main main main rght rght"
+    "menu menu fter fter fter fter fter fter fter fter fter fter fter";
+  grid-template-columns: repeat(13, 1fr);
+  grid-template-rows: repeat(6, auto);
+  gap: 5px;
+}
+
+@media (max-width: 750px) {
+  .wrapper--grid {
+    grid-template-areas:
+      "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+      "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+      "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "menu menu menu menu main main main main main main main rght rght rght"
+      "fter fter fter fter fter fter fter fter fter fter fter fter fter fter"
+      "fter fter fter fter fter fter fter fter fter fter fter fter fter fter";
+  }
+}
+
+@media (max-width: 350px) {
+  .wrapper--grid {
+    grid-template-areas:
+      "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+      "hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr hedr"
+      "menu menu menu menu menu menu menu menu menu menu menu menu menu menu"
+      "menu menu menu menu menu menu menu menu menu menu menu menu menu menu"
+      "main main main main main main main main main main main main main main"
+      "main main main main main main main main main main main main main main"
+      "rght rght rght rght rght rght rght rght rght rght rght rght rght rght"
+      "rght rght rght rght rght rght rght rght rght rght rght rght rght rght"
+      "fter fter fter fter fter fter fter fter fter fter fter fter fter fter"
+      "fter fter fter fter fter fter fter fter fter fter fter fter fter fter";
+  }
+}
+
+.menu {
+  grid-area: menu;
+  background-color: blue;
+}
+.main {
+  grid-area: main;
+  background-color: green;
+}
+.right {
+  grid-area: rght;
+  background-color: purple;
+}
+.footer {
+  grid-area: fter;
+  background-color: lightblue;
+}
