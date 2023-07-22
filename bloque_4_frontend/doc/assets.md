@@ -74,3 +74,11 @@ https://medium.com/@GreenXIII/organize-your-css-smacss-way-89c087db5092
 https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/#top
 https://bradfrost.com/blog/post/atomic-web-design/
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+
+Algunas cositas para el proyecto
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#browser_compatibility
+
+https://github.com/hiddentao/fast-levenshtein
