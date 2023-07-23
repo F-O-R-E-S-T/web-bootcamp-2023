@@ -264,3 +264,13 @@ Para ser un/a frontend siempre hay que estar revisando el codigo que se escribe 
 🍃 B-E_M: https://en.bem.info/methodology/quick-start/
 
 🍃 Atomic Design: https://bradfrost.com/blog/post/atomic-web-design/
+
+# Assigment #14: Proyecto - Parte 1: The blog
+
+Ya que hemos visto varias maneras de como se hace frontend, algo de CSS, algo de HTML y algo de JS para el frontend ¿Y si mezclamos todo? ⛳️
+
+🌲 Maqueta como quieres que se vea tu blog (Recuerda que lo mencionamos en la última sesión); como consejo sería bueno usar un mapa de topografía 🍃 
+
+🌲 Crear una pequeña esctructura de como harás tu layout en HTML 🍃 
+
+🌲 Crear una pequeña esctructura de como harás tu layout en CSS 🍃 
