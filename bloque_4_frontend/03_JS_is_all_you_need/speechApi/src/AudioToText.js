@@ -32,7 +32,6 @@ class AudioToText {
   WebWritter() {
     this.recordedFile.endHandler();
     this.recordedFile.errorHandler();
-    console.log(this.recordedFile.getResult);
     this.currentText = this.recordedFile.getResult;
   }
 }
