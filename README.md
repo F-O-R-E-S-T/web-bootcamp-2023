@@ -1,7 +1,21 @@
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <a href="https://www.youtube.com/watch?v=TIDaw1VPI1c&list=PL6yzG4hP9laOihWcfNMSLK0CNVnrqC_4R" target="_blank" rel="noreferrer">
-        <h1 align="center">Free Open Bootcamp: 2023</h1>
-    </a>
+    <h1 align="center">Free Open Bootcamp: 2023</h1>
+    <div style="display: flex; justify-content: space-around; margin: 5px">
+        <p align="center">
+            <a href="https://www.youtube.com/watch?v=VN1FXw_my8A&list=PL6yzG4hP9laP4GK3o30JrmggKSA0rACbW" target="_blank" rel="noreferrer">
+                <img
+                    src="https://img.shields.io/badge/-Intervenciones-red?style=for-the-badge&logo=youtube"
+                    alt="Intervenciones"
+                />
+            </a>
+            <a href="https://www.youtube.com/watch?v=TIDaw1VPI1c&list=PL6yzG4hP9laOihWcfNMSLK0CNVnrqC_4R" target="_blank" rel="noreferrer">
+                <img
+                    src="https://img.shields.io/badge/-Sesiones-red?style=for-the-badge&logo=youtube"
+                    alt="Sesiones"
+                />
+            </a>
+        </p>
+    </div>
 </div>
 
 ## Temas
