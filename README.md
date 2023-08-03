@@ -226,7 +226,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h3>Maria Lizeth Duarte Coronado</h3>
+    <h3>Cristhian Andres Grajales Perez</h3>
     <a href="https://github.com/Cristhian47" target="_blank" rel="noreferrer">
         <img
             src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
