@@ -274,3 +274,62 @@ Ya que hemos visto varias maneras de como se hace frontend, algo de CSS, algo de
 🌲 Crear una pequeña esctructura de como harás tu layout en HTML 🍃 
 
 🌲 Crear una pequeña esctructura de como harás tu layout en CSS 🍃 
+
+# Assigment #14: Proyecto - Parte 2: The blog
+
+Ahora que ya tienes una estructura, sería bueno agregar algo de estetica ¿No crees?,
+CSS es tan usualmente complicado como uno mismo quiera hacerlo, pero; las paginas,
+los sitios y las apps en web son visualmente atractivas.
+
+Para practicar esto ⛳️ usaremos una serie de recursos:
+
+🌲 [Usaremos una fuente](https://fonts.google.com/)
+
+🌲 [Deberíamos definir una paleta de colores](https://color.adobe.com/es/create/color-wheel)
+
+🌲 [Un estilo para la lo que hemos hecho](https://www.crehana.com/blog/estilo-vida/tendencias-ux-ui/)
+
+🌲 [Un poco de interactividad](https://animate.style/)
+
+🌲 [Y una arquitectura](https://en.bem.info/methodology/)
+
+Con todo ellos, solo has de procurar que sea esteticamente atractivo lo que diseñes,
+a este punto no deberías necesitar algo más que CSS, pero si deseas puedes combinar
+los estilos con algo de JS para agregar más interactividad
+
+# Assigment #14: Proyecto - Parte 3: The blog
+
+<div align="center">
+    <i>
+        "La voz humana es el instrumento más bello... Pero el más dificil de tocar"
+    </i>
+</div>
+Richard Strauss
+
+Si, usaremos la voz, ¿Por qué no hacerlo? La usamos todos los días, solo que; como
+decía Strauss eso es dificil, en frontend lo "dificil" es sinonimo de JS/TS. Así que
+has de usar la Web Speech API, la cual viene por defecto en la web.
+
+Para esta practica debes usar:
+
+⛳️ [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+⛳️ [Browser Compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#browser_compatibility)
+
+⛳️ [JS is all you need](https://github.com/F-O-R-E-S-T/web-bootcamp-2023/tree/main/bloque_4_frontend/03_JS_is_all_you_need)
+
+Obviamos todo esto debes hacerlo con JS; una vez hayas completado estos requerimientos minimos, tendrás un proyecto funcional.
+
+El objetivo será:
+
+🌲 Crear un "blog" en el cual tendrás que poder agregar conteidos mediante la voz a
+un pequeño input de "preview"
+
+🌲 En ese preview debes de poder editar y corregir el texto
+
+🌲 El texto que generes debe de poder interpretarse con comando y algunas utilidades
+por el estilo
+
+🌲 Es importante que uses un proxy para enriquecer tu manera de escribir, así agregando
+algunas comandos, la manera en la que los agreges va en ti, pero debes tener minimo 5
+comando diferentes por voz que modifiquen algo en los textos, blog o pagina
