@@ -127,6 +127,8 @@
     </a>
 </div>
 
+## Conferencistas (Intervenciones)
+
 <div style="display: flex; justify-content: space-around; margin: 5px">
     <h3>Miguel Acevedo @linuxcriollo</h3>
     <a href="https://gitlab.com/linux-criollo" target="_blank" rel="noreferrer">
@@ -139,6 +141,102 @@
         <img
             src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"
             alt="YouTube: @linuxcriollo"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Daniela Ospina Salamanca</h3>
+    <a href="https://github.com/danielaospina" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: danielaospina"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/daniela-ospina-salamanca-a53a3918a/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Daniela Ospina Salamanca"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Juan Alejandro Pérez Bermúdez @Barto</h3>
+    <a href="https://github.com/Mega-Barto" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: Mega-Barto"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/juan-alejandro-p%C3%A9rez-berm%C3%BAdez-52961a230/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Juan Alejandro (Barto) Pérez Bermúdez"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Juan José Ochoa Cardona</h3>
+    <a href="https://github.com/Juan8a23" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: Juan8a23"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/juan8acardona/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Juan José Ochoa Cardona"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Ana Sofia Beltran</h3>
+    <a href="https://github.com/anasofiabeltran" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: anasofiabeltran"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/ana-sofia-beltran-63743321a/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Ana Sofia beltran"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Maria Lizeth Duarte Coronado</h3>
+    <a href="https://www.behance.net/lizduarte" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=Behance"
+            alt="Behance: Lizeth Duarte"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/lizduartee/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Maria Lizeth Duarte Coronado"
+        />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3>Maria Lizeth Duarte Coronado</h3>
+    <a href="https://github.com/Cristhian47" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub"
+            alt="GitHub: Cristhian47"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/cristhian-andres-grajales-perez-5b5426229/" target="_blank" rel="noreferrer">
+        <img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn"
+            alt="LinkedIn: Cristhian Andres Grajales Perez"
         />
     </a>
 </div>
