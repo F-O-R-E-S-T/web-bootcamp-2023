@@ -275,7 +275,7 @@ Ya que hemos visto varias maneras de como se hace frontend, algo de CSS, algo de
 
 🌲 Crear una pequeña esctructura de como harás tu layout en CSS 🍃 
 
-# Assigment #14: Proyecto - Parte 2: The blog
+# Assigment #15: Proyecto - Parte 2: The blog
 
 Ahora que ya tienes una estructura, sería bueno agregar algo de estetica ¿No crees?,
 CSS es tan usualmente complicado como uno mismo quiera hacerlo, pero; las paginas,
@@ -297,7 +297,7 @@ Con todo ellos, solo has de procurar que sea esteticamente atractivo lo que dise
 a este punto no deberías necesitar algo más que CSS, pero si deseas puedes combinar
 los estilos con algo de JS para agregar más interactividad
 
-# Assigment #14: Proyecto - Parte 3: The blog
+# Assigment #16: Proyecto - Parte 3: The blog
 
 <div align="center">
     <i>
