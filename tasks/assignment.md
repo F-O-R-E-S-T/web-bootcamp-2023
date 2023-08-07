@@ -123,7 +123,7 @@ Tomando los 4 diagramas de más abajo 🗺 debes de construir un "plan" de traba
 ![Diagrama de componentes](./zorro_scape/zorrospace-Components.drawio.png "Diagrama de componentes")
 ![Diagrama de paquetes](./zorro_scape/zorrospace-Packages.drawio.png "Diagrama de paquetes")
 ![Diagrama de secuencia](./zorro_scape/zorrospace-Sequence.drawio.png "Diagrama de secuencia")
-![Diagrama de estados](./zzorro_scape/orrospace-States.drawio.png "Diagrama de estados")
+![Diagrama de estados](./zzorro_scape/zorrospace-States.drawio.png "Diagrama de estados")
 
 # Backend Project: Zorro scape
 
