@@ -259,16 +259,8 @@
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
     <img
-        src="https://raw.githubusercontent.com/F-O-R-E-S-T/web-bootcamp-2023/main/.assets/logo_transparente.png"
-        alt="FOREST"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://raw.githubusercontent.com/F-O-R-E-S-T/web-bootcamp-2023/main/.assets/ubuntu.png"
-        alt="FOREST"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/F-O-R-E-S-T/web-bootcamp-2023/main/.assets/bootcamp.png"
+        alt="Colaboradores"
     />
 </div>
 
