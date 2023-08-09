@@ -18,6 +18,25 @@
     </div>
 </div>
 
+
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h2 align="center">¿Quieres optener tu certifacación?</h2>
+    <div style="display: flex; justify-content: space-around; margin: 5px">
+        <p align="center">
+            ¡Aún estas a tiempo! En el siguiente link podrías ingresar al formulario de inscripción de tareas
+        </p>
+        <p align="center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScf6qybukWrAH3yiemSW6ldJlV-Ae7tghB0WU_C3JC1g-3PkA/viewform?usp=sf_link" target="_blank" rel="noreferrer">
+                <img
+                    src="https://img.shields.io/badge/-Formulario%20de%20inscripcion%20de%20tareas-purple?style=for-the-badge&logo=pinboard"
+                    alt="Sesiones"
+                />
+            </a>
+        </p>
+    </div>
+</div>
+
+
 ## Temas
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
