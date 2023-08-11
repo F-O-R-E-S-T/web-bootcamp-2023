@@ -20,7 +20,7 @@
 
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h2 align="center">¿Quieres optener tu certifacación?</h2>
+    <h2 align="center">¿Quieres obtener tu certificación?</h2>
     <div style="display: flex; justify-content: space-around; margin: 5px">
         <p align="center">
             ¡Aún estas a tiempo! En el siguiente link podrías ingresar al formulario de inscripción de tareas
