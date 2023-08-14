@@ -23,7 +23,7 @@
     <h2 align="center">¿Quieres obtener tu certificación?</h2>
     <div style="display: flex; justify-content: space-around; margin: 5px">
         <p align="center">
-            ¡Aún estas a tiempo! En el siguiente link podrías ingresar al formulario de inscripción de tareas
+            ¡Aún estas a tiempo! La fecha limite será el jueves 31 de agosto. En el siguiente link podrías ingresar al formulario de inscripción de tareas
         </p>
         <p align="center">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScf6qybukWrAH3yiemSW6ldJlV-Ae7tghB0WU_C3JC1g-3PkA/viewform?usp=sf_link" target="_blank" rel="noreferrer">
