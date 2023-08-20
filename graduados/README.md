@@ -9,7 +9,11 @@
     <h1 align="center">Free Open Bootcamp: 2023 - Graduados</h1>
 </div>
 
-### Listado de personas que completaron existosamente el Open Web Bootcamp
+<div style="display: flex; justify-content: space-around; margin: 5px">
+    <h3 align="center">
+        Listado de personas que completaron existosamente el Open Web Bootcamp
+    </h3>
+</div>
 
 <table align="center">
     <thead>
