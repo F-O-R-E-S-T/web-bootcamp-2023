@@ -23,7 +23,7 @@
     <h2 align="center">¿Quieres obtener tu certificación?</h2>
     <div style="display: flex; justify-content: space-around; margin: 5px">
         <p align="center">
-            ¡Aún estas a tiempo! Hemos extendido la fecha limite. Tendrás 15 días más para subir tus tareas, aprovecha esta oportunidad
+            ¡Aún estas a tiempo! Hemos extendido la fecha limite. Tendras hasta el 15 de septiembre para subir las tareas, aprovecha esta oportunidad
         </p>
         <p align="center">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScf6qybukWrAH3yiemSW6ldJlV-Ae7tghB0WU_C3JC1g-3PkA/viewform?usp=sf_link" target="_blank" rel="noreferrer">
