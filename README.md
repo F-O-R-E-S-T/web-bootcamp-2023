@@ -20,16 +20,13 @@
 
 
 <div style="display: flex; justify-content: space-around; margin: 5px">
-    <h2 align="center">¿Quieres obtener tu certificación?</h2>
+    <h2 align="center">¡Lo lograste! Aquí está la prueba y todos pueden verlo</h2>
     <div style="display: flex; justify-content: space-around; margin: 5px">
         <p align="center">
-            ¡Aún estas a tiempo! Hemos extendido la fecha limite. Tendras hasta el 15 de septiembre para subir las tareas, aprovecha esta oportunidad
-        </p>
-        <p align="center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScf6qybukWrAH3yiemSW6ldJlV-Ae7tghB0WU_C3JC1g-3PkA/viewform?usp=sf_link" target="_blank" rel="noreferrer">
+            <a href="https://github.com/F-O-R-E-S-T/web-bootcamp-2023/tree/main/graduados" target="_blank" rel="noreferrer">
                 <img
-                    src="https://img.shields.io/badge/-Formulario%20de%20inscripcion%20de%20tareas-purple?style=for-the-badge&logo=pinboard"
-                    alt="Sesiones"
+                    src="https://img.shields.io/badge/-Trees-darkgreen?style=for-the-badge&logo=Gumtree"
+                    alt="Trees"
                 />
             </a>
         </p>
